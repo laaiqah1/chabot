@@ -1,7 +1,6 @@
 import streamlit as st 
 import os
 import openai
-!pip install openai
 
 # Llama Index
 from llama_index import (
